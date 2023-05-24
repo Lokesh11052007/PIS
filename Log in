@@ -23,7 +23,7 @@
       <input type="text" id="address" name="address">
     </div>
     <div>
-      <input type="submit" value="Submit">
+      <input type="submit" value="Submit" onclick url:"https://lokesh11052007.github.io/PIS/index.html">
     </div>
   </form>
 </body>
